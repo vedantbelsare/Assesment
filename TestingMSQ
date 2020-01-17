@@ -1,0 +1,148 @@
+
+Vedant Belsare
+
+Q1)  The order in which test levels are performed is:
+a) Unit, Integration, Acceptance, System
+b) Unit, System, Integration, Acceptance
+c) Unit, Integration, System, Acceptance
+d) It depends on the nature of a project
+Ans.-c
+
+Q2) System testing is a
+a) Black box testing
+b) Grey box testing
+c) White box testing
+d) Both a and b
+Ans.-a
+
+Q3) System Test cases are designed during which of the following stages?
+a) Test recording
+b) Test configuration
+c) Test planning
+d) Test Requirements specification
+Ans.-d
+
+Q5) Which is the other name for unit level testing?
+a) Behavioral testing
+b) Glass box testing
+c) White box testing
+d) None of the above
+Ans.-c
+
+Q6) The technique applied for usability testing is:
+a) White box
+b) Grey box
+c) Black box
+d) Combination of all
+Ans.-c
+
+Q7) Which of the following is not a Test Type?
+a) Database Testing
+b) Security Testing
+c) Statement Testing
+d) Functional Testing
+Ans.-b
+
+Q8) Static testing can be best described as:
+a) The reviewing of test plans
+b) The analysis of batch programs
+c) The use of black box testing
+d) The analysis of program code on paper
+Ans.-d
+
+Q9) Exhaustive testing is:
+a) always possible
+b) impractical but possible
+c) practically possible
+d) impractical and impossible
+Ans.-b
+
+Q10) which of the following is not a type of Test Scenario?
+a) Withdraw cash from ATM
+b) Make online Purchase of books
+c) Test Login functionality of application
+d) Check if password field allows for special chars like @#.
+Ans.-d
+
+Q11) White-box testing can be started:
+a) After installation
+b) After SRS creation
+c) After programming
+d) After designing
+Ans.-c
+Q12) what is a good example of a high priority and low severity defect?
+a) Failure of a blood sample analyser in a lab
+b) Failure of Oxygen dispenser in a hospital
+c) Failure of emergency torch light during power outage
+d) Incorrect Logo on a well-known company website
+Ans.-d
+
+Q13) which of the following is not a defect tracking tool?
+a) Bugzilla
+b) Jira
+c) HP-ALM
+d) Selenium.
+Ans.-c
+
+Q14) Testing of software once new components are added is known as?
+a) Regression testing
+b) Beta testing
+c) Alpha testing
+d) None of the above
+Ans.-a
+
+Q15) Beta Testing is done at:
+a) Developer’s end
+b) User’s end
+c) User’s &amp; Developer’s end
+d) None of the mentioned
+Ans.-b
+
+Q16) What is Equivalence class partitioning ?
+a) Testing method
+b) Test Case
+c) Test Scenario
+d) Test Plan
+Ans.-a
+
+Q17) Unit testing is done by:
+a) Users
+b) Developers
+c) Customers
+d) None of the mentioned
+Ans.-b
+
+Q18) which of the following is not a Software Development Life Cycle Phase?
+a) Requirements Gathering
+b) Test Closure
+c) Coding
+d) Testing
+Ans.-b
+Q19) Which one of the following is not a defect status ?
+a) New
+b) Open
+c) Implementation
+d) Fixed.
+Ans.-c
+
+Q20) Error guessing is a:
+a) Test verification techniques
+b) Test data management techniques
+c) Test control management techniques
+d) Test execution techniques
+Ans.-b
+
+Q21) Which of the following is not a white box technique?
+a) System testing
+b) Decision Testing
+c) Statement testing
+d) Condition Testing.
+Ans.-a
+
+Q22 ) What are the locators Selenium supports?
+a) ID: Unique for every web element
+b) Name: Same as ID although it is not unique
+c) CSS Selector: Works on element tags and attributes
+d) All of the Above
+Ans.-d
+
